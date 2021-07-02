@@ -87,11 +87,6 @@ class _MyHomePageState extends State<MyHomePage> {
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
             children: <Widget>[
-              Image.asset(
-                'assets/happy-smiley.png',
-                width: 180.0,
-                height: 180.0,
-              ),
               SizedBox(
                 height: 40.0,
               ),
